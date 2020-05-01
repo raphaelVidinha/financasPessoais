@@ -1,0 +1,16 @@
+{
+  "name": "financasPessoais",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/raphaelVidinha/financasPessoais.git",
+  "author": "Raphael Vidinha <raphael.vidinha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "typeorm": "^0.2.24",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6"
+  }
+}
